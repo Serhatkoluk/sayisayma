@@ -1,0 +1,7 @@
+C:\Users\Serhat\Desktop\PT ODEV\sayı-sayma\bin\Debug\sayı-sayma.exe.config
+C:\Users\Serhat\Desktop\PT ODEV\sayı-sayma\bin\Debug\sayı-sayma.exe
+C:\Users\Serhat\Desktop\PT ODEV\sayı-sayma\bin\Debug\sayı-sayma.pdb
+C:\Users\Serhat\Desktop\PT ODEV\sayı-sayma\obj\Debug\sayı-sayma.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\PT ODEV\sayı-sayma\obj\Debug\sayı-sayma.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\PT ODEV\sayı-sayma\obj\Debug\sayı-sayma.exe
+C:\Users\Serhat\Desktop\PT ODEV\sayı-sayma\obj\Debug\sayı-sayma.pdb
